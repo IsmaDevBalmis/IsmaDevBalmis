@@ -24,6 +24,13 @@
 - [x] Kotlin
 - [ ] BBDD
 
+```
+{
+  "name": "C#",
+  "level": "85%"
+}
+```
+
 
 <!--
 **IsmaDevBalmis/IsmaDevBalmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
