@@ -5,14 +5,24 @@
 
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">IsmaDev 📲</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.twitch.tv/huidobro25">IsmaDev 📲</a> 👋</h1>
 </div>
 
 <div align="center">
 <img src="https://www.piensasolutions.com/blog/file/uploads/2017/10/bannerprogramacion.jpg">
 </div>
 
+---
+
+
 📚 Estudiante de desarrollo de aplicaciones multiplataforma.
+
+### Tecnologías
+
+- [x] C#
+- [x] Java
+- [x] Kotlin
+- [ ] BBDD
 
 
 <!--
