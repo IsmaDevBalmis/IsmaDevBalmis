@@ -1,5 +1,6 @@
 ### IsmaDev 📲
 
+Estudiante de desarrollo de aplicaciones multiplataforma.
 
 
 
